@@ -58,6 +58,12 @@ REACT_APP_BACK_END_SERVER_URL=http://localhost:3001
 
 > 🚨 DO NOT place secrets in this `.env` file. The contents of this file WILL be exposed to site visitors. We are only using the front-end .env to create variables specific to the environment the application is running in.
 
+Confirm the app starts up with:
+
+```bash
+npm start
+```
+
 Delete this README.md, then make an initial commit:
 
 ```bash
